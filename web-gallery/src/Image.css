@@ -1,0 +1,24 @@
+
+.heading{
+    background-color: rgb(255, 113, 208);
+    color: white;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-left: 100px;
+}
+img{
+    height: 300px;
+    width: 300px;
+    
+}
+.div1 p{
+    color: rgb(255, 9, 132);
+    font-family:  sans-serif;
+    
+}
