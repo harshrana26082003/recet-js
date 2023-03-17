@@ -1,0 +1,58 @@
+
+a{
+    text-decoration: none;
+}
+
+
+
+.logo-text{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo-text span{
+    color: #f50537
+}
+.form-search{
+    
+    border-radius: 30px 0px 0px 30px !important;
+}
+
+.btn-style{
+    border-radius: 0 30px 30px 0;
+    box-shadow: none;
+    padding: 6px 13px;
+    font-size: 15px;
+    color: #fff;
+    font-weight: 600;
+    outline: none;
+    border: 2px solid #f50537;
+    background: #f50537;
+    margin-left: -8px;
+    transition: all 1.8s ease-in-out;
+}
+.btn-style:hover{
+    background-color: #037ef3;
+    border: 2px solid #037ef3;
+    color: white;
+}
+.nav-item a:hover{
+    color: #f50537 !important;
+}
+
+/* .nav-bar{
+    position: fixed;
+    width: 100% !important;
+    top: 0;
+    z-index: 256895250;
+    box-shadow: 2px -2px 8px 0px #00000084;
+} */
+/* .nav-bar-pos{
+    position: relative;
+  
+} */
+.pos-moon{
+    position: absolute;
+    top: 23px;
+    right: 65px;
+    font-size: 25px !important;
+}
